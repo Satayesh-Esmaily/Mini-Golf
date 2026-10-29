@@ -30,13 +30,19 @@ The scene was built using Unity's primitive Cubes, Spheres, and Cylinders. Posit
 ## Screenshots
 
 ### Game View
-
+![Game View:](golf-shots/game1.jpg)
+![Game View:](golf-shots/game2.jpg)
+![Game View:](golf-shots/game3.jpg)
+![Game View:](golf-shots/game4.jpg)
+![Game View:](golf-shots/game5.jpg)
 
 ### Scene Hierarchy
 
+![Hierarchy:](golf-shots/hi.jpg)
 
 ### Material Structure
 
+![Materials:](golf-shots/material.jpg)
 
 
 ## What I Learned
