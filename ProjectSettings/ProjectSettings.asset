@@ -897,11 +897,11 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 
+  cloudProjectId: b194162f-4cb2-403e-89a4-b9cd02a5eda0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Mini-Golf 2026-10-29_16-42-39
+  organizationId: satayesh
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
